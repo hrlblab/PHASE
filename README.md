@@ -1,5 +1,6 @@
-# PHASE
-PHASE: Personalized Head-based Automatic Simulation for Electromagnetic Properties in 7T MRI
+# PHASE: Personalized Head-based Automatic Simulation for Electromagnetic Properties in 7T MRI
+The official implementation of PHASE.
+<img src="images/figure1.png" alt="Example Figure" width="200"/>
 ![First Figure](Figs/Problem_figure.png)
 
 # Abstract
