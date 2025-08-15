@@ -1,0 +1,8 @@
+matplotlib==3.7.1
+mayavi==4.8.2
+nibabel==5.3.2
+numpy==2.3.2
+pydicom==3.0.1
+pyvista==0.44.1
+scipy==1.16.1
+SimpleITK==2.5.2
