@@ -36,7 +36,7 @@ A script is provided to transform `.nii` file to `.raw` file which is importable
 ```bash
 python nii_to_raw.py
 ```
-An example of a header `.txt` file needed for `.raw` when importing is provided. The grid extent and spatial steps need to be refined to your models.
+An example of a header `.txt` file needed for `.raw` when importing is provided (example.txt). The grid extent and spatial steps need to be refined to your models.
 
 # Reference
 [1] Huo, Yuankai, et al. "3D whole brain segmentation using spatially localized atlas network tiles." NeuroImage 194 (2019): 105-119.  
